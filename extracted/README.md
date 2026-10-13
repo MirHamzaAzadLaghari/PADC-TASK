@@ -1,4 +1,4 @@
-# Premium Desktop Calculator (PDC)
+# CALCULATOR WITH EXECUTION TIME
 
 A high-performance desktop scientific calculator featuring a precision mathematical calculation engine, responsive dark glassmorphism GUI, live expression preview, interactive history drawer, and **automatic per-calculation execution time profiling and logging**.
 
